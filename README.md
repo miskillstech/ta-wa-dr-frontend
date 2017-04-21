@@ -1,2 +1,5 @@
 # ta-wa-dr-frontend
-Bambhole
+
+This app is frontend for doctors.
+Folder structure :
+scripts/
